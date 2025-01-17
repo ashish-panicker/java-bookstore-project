@@ -1,7 +1,7 @@
 # Project Case Study: Bookstore System
 
 ## Project Overview
-Develop an online bookstore system using Java SE where users can browse, search for books, add books to their cart, and place orders. The system should also include functionalities for book inventory management, user registration, and user login.
+Develop an online bookstore system using Java where users can browse, search for books, add books to their cart, and place orders. The system should also include functionalities for book inventory management, user registration, and user login.
 
 ## Team 1: User Management
 **Responsibilities:**
